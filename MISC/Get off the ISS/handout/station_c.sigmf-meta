@@ -1,0 +1,19 @@
+{
+    "global": {
+        "core:datatype": "cf32_le",
+        "core:sample_rate": 500000,
+        "core:version": "1.0.0",
+        "core:description": "IQ recording for Station C",
+        "core:author": "Generated for CTF",
+        "core:frequency": 146000000,
+        "core:num_channels": 1,
+        "core:sha512": "8a72004100795cd2b880a27eaa394123f62506ad5c5d26f81405c2c068ba866a5b8ea71505884937964ae0d170e3d0ae0401a039790461b83d5bd930f859ac94"
+    },
+    "captures": [
+        {
+            "core:sample_start": 0,
+            "core:frequency": 146000000
+        }
+    ],
+    "annotations": []
+}
