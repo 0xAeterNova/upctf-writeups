@@ -288,7 +288,7 @@ def check(seq):
 solutions = [s for s in product(range(4), repeat=8) if check(s)]
 print(solutions)
 ```
-![Display the solution](images/04-solve.png)
+![Display the solution](images/05-solve.png)
 
 Running it produces a **single** valid result:
 
